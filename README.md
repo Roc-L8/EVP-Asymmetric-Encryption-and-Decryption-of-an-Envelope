@@ -24,6 +24,7 @@
 ![image](https://github.com/Ruipeng-LI/EVP-Asymmetric-Encryption-and-Decryption-of-an-Envelope/blob/master/image/%E5%8A%A0%E5%AF%86.png)
 
 解密界面截图：<Br/>
+![image](https://github.com/Ruipeng-LI/EVP-Asymmetric-Encryption-and-Decryption-of-an-Envelope/blob/master/image/%E8%A7%A3%E5%AF%86.png)
 
 
 # 项目实现功能
